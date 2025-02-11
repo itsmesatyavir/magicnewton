@@ -39,5 +39,6 @@ Once you've set everything up, run the script using Node.js:
 Node.js (v14 or above)
 Puppeteer (installed automatically via package.json)
 To install dependencies, use: `npm install`
+
 📧 Support
 For any issues or support, join our Telegram group: FORESTARMY (https://t.me/forestarmy)
